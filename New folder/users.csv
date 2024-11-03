@@ -1,0 +1,6 @@
+"user_id","username ","password ","role"
+1,"UserA","Password1","Manager"
+2,"UserB","Password2","Employee"
+3,"UserC","Password3","Employee"
+4,"UserD","Password4","Manager"
+5,"UserE","Password5","Employee"

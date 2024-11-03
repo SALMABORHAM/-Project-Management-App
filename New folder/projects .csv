@@ -1,0 +1,6 @@
+"project_id","project_name","description","start_date","end_date","budget","owner","status"
+1,"Project Alpha","Description for Project Alpha","2024-01-01","2024-06-01","1000",1,"Active"
+2,"Project Beta","Description for Project Beta","2024-02-01","2024-07-01","1500",2,"Active"
+3,"Project Gamma","Description for Project Gamma","2024-03-01","2024-08-01","2000",3,"Inactive"
+4,"Project Delta","Description for Project Delta","2024-04-01","2024-09-01","2500",4,"Active"
+5,"Project Epsilon","Description for Project Epsilon","2024-05-01","2024-10-01","3000",5,"Active"

@@ -1,0 +1,6 @@
+"comment_id","task_id","user_id","comment_text","comment_date"
+1,1,1,"This task is progressing well.","2024-11-02 10:00:00+02"
+2,1,2,"I have completed my part of the task.","2024-11-02 10:05:00+02"
+3,2,1,"Looking forward to the next steps on this project.","2024-11-02 10:15:00+02"
+4,2,3,"Let me know if you need any help.","2024-11-02 10:20:00+02"
+5,3,2,"I have some questions regarding this task.","2024-11-02 10:30:00+02"

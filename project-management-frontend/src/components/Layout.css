@@ -1,0 +1,33 @@
+/* src/components/Layout.css
+
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #282c34;
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-header nav ul {
+    display: flex;
+    gap: 1rem;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .App-header nav ul li {
+    display: inline;
+  }
+  
+  nav a {
+    color: #61dafb;
+    text-decoration: none;
+  }
+  
+  nav a.active {
+    font-weight: bold;
+    color: #ffffff;
+  }
+   */
